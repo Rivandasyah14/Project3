@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_perkenalan"
+            android:icon="@drawable/ic_perkenalan"
+            android:title="Perkenalan" />
+
+        <item
+            android:id="@+id/nav_cerita0"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Awal mula sang Pengembara" />
+        <item
+            android:id="@+id/nav_cerita1"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Bija sang Raja Bijak" />
+        <item
+            android:id="@+id/nav_cerita2"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Kakek yang rajin sedekah" />
+
+        <item
+            android:id="@+id/nav_cerita3"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Balasan untuk Tukang Semir" />
+
+        <item
+            android:id="@+id/nav_cerita4"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Zetta yang jujur" />
+
+        <item
+            android:id="@+id/nav_cerita5"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Cerita akhir sang Pengembara" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_tentang"
+                android:icon="@mipmap/ic_tentang"
+                android:title="Tentang" />
+        </menu>
+    </item>
+
+</menu>

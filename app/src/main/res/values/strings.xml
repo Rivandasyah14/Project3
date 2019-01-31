@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">KisahIslami</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="cerita_pengembara">
+        Di suatu tempat yang jauh dan asing terdapat satu anak dan ayahnya yang sedang sakit, ayahnya yang tahu bahwa usianya tidak akan lama hendak memberikan nasihat kepada anak semata wayangnya tersebut.
+        /n /n
+        “ Hai anakku, berkelilinglah keseluruh penjuru bumi. Carilah pelajaran berharga yang tidak akan bisa engkau temukan disini “
+        /n /n
+        “ Lalu bagaimana dengan engkau ayah ? Engkau hanya sendiri disini, tidak ada yang bisa menjagamu selagi aku pergi nanti “
+        /n /n
+        “ Allah yang akan menjagaku nanti anakku, insyaallah. Ingat, bahwa Allah akan selalu menjaga hambanya yang beriman “
+        /n /n
+        “ Baiklah jika itu yang ayah inginkan, dengan senang hati aku akan menjalankannya “
+        /n /n
+        Walaupun begitu, sang anak tetap menjalankan perintah ayahnya. Ia pergi dengan berat hati dan mulai mencari pelajaran yang ayahnya maksud itu.
+        /n /n
+        Nama Anak itu Jafu.</string>
+
+    <string name="cerita_rajabijak">Beberapa hari setelah Jafu berangkat, ia masuk kedalam negri yang dipimpin oleh Raja yang sangat bijak dan peduli, bernama Raja Bija. Sesaat setelah ia sampan di negri tersebut, ia melihat seorang petani yang membawa gerobak barang yang Penh dengan barang bawaan. Ketika melihat batu yang menghalangi jalannya, ia langsung mengomel dan ia pun marah-marah.
+        /n /n
+        "Dasar memang orang-orang disini malas-malas..! Batu di tengah jalan didiamkan saja...!" sambil terus menggerutu, ia membelokan gerobaknya untuk menghindari batu tadi dan Ia pun meneruskan perjalannya.
+        /n /n
+        Setelah itu lewatlah seorang prajurit sambil bernyanyi-nyanyi tentang keberaniannya di medan perang. Karena kurang memperhatikan jalanan, siprajurit tersandung batu itu dan hampir tersungkur."Aduh...! kenapa orang malas menyingkirkan Batu keparat ini?" teriak si prajurit geram sambil mengacungkan pedang. Meski marah-marah si prajurit itu tidak melakukan tindakan apapun terhadap batu itu. Sebaliknya Ia hanya melangkahi batu tersebut dan berlalu begitu saja.
+        /n /n
+        Setelah melihat itu semua, Jafu hanya bisa menggeleng-gelengkan kepalanya. Ia harus menyingkir batu tersebut, sebab kalau tidak bisa menghalangi jalan orang lain dan mungkin saja bisa membuat yang lewat terjatuh.
+        /n /n
+        Jafu pun mengangkat batunya dan terkejut, sebab ia melihat sepucuk surat yang berisikan bahwa bagi siapa saja yang menyingkirkan batu tersebut maka ia diundang untuk mengmui Raja Bija. Ia pun bergegas menuju istana dan menemui raja tersebut.
+        /n /n
+        “ Kamu adalah orang yang sangat rajin dan peduli kepada orang lain. Aku sepertinya tidak salah untuk memilih penggantiku, aku sudah sangat tua dan renta. Bersediakah kamu, wahai anak muda yang adil dan peduli untuk menggantikan posisiku ini ? “
+        /n /n
+        Jafu yang bingung dengan situasinya akhirnya berkata jujur, “ Aku hanyalah seorang pengembara saja yang mulia. Aku hidup jauh di negri sebrang sana. Aku mempunyai seorang ayah yang sudah tua dan sakit-sakitan dan juga aku harus menyelesaikan permohon ayahku untuk mengembara sampai ujung bumi “
+        /n /n
+        “ Baiklah kale begitu. Bermalamlah disini dan lanjutkan perjalananmu. Setelah nanti kamu kembali pada ayahmu, kembalilah kesini untuk menerima hadiah yang sepantasnya “
+        /n /n
+        Keesokan harinya, Jafu pergi untuk mengembara kembali dan berjanji akan kembali setelah sampai pada ayahnya lagi.
+    </string>
+
+    <string name="cerita_kakekalam">Setelah beberapa hari berjalan lagi, Jafu bertemu dengan pemilik kebun yang sedang merawat kebunnya. Ia sedans duduk dialam gubuk bersama Kakek yang bernama Alam tersebut.
+        /n /n
+        “ Wahai kakek, apakah namamu adalah Alam ? “
+        /n /n
+        Sang Kakek tersebut terheran-heran karna ia belum mengenalkan namanya, “ Bagaimana engkau tahu namaku wahai anak muda ? “
+        /n /n
+        “ Sebenarnya saat tadi aku berjalan menuju sini, aku mendengar suara dari langit yang sedang menyuruh hujan untuk membasahi kebunmu ini, karna aku penasaran akhirnya aku mengikuti arah awan gelap tersebut. Nah kakek, ada apa gerangan ? Amal apa yang telah engkau perbuat sampai seperti itu ? “
+        /n /n
+        "Mungkin karena aku sering sedekahkan sepertiga tanaman yang tumbuh dari kebunku, sepertiganya aku buat makan bersama keluargaku, dan sepertiganya lagi aku biarkan." Jawab Kakek Alam.
+        /n /n
+        Jafu lagi-lagi mendapat pelajaran berharga dari orang lain. Setelah hujannya berhenti, Jafu pun pamit dan melanjutkan perjalannya.
+    </string>
+
+    <string name="cerita_paktua">Jafu sedang melewati daerah yang subur, disaat itu ia melihat Tukang semir yang sedang berteduh dibawah pohon yang rindang, ia pun menghampirinya.
+        /n /n
+        “ Hai Anak muda, kenalkan namaku Pak Tua. Sudikah kau mengengar cerita dari seorang Pak Tua yang surah tua ini ? “ Dengan senang hati Jafu mengangguk, ia sangat suka mendengar cerita.
+        Dahulu kala, hiduplah seorang laki-laki miskin yang berprofesi sebagai tukang semir sepatu. Si tukang semir ini adalah seorang yang rajin dan tak pernah lalai untuk menjalankan ibadah. Kehidupannya yang pas-pasan pun, tidak menyurutkan niatnya untuk bisa pergi haji.
+        /n /n
+        Sedikit demi sedikit, ia kumpulkan jerih payahnya untuk bisa naik haji. Memang membutuhkan waktu yang lama, tapi tukang semir sepatu ini tak pernah mengeluh dan tetap sabar.
+        /n /n
+        Hingga pada suatu hari, uangnya sudah terkumpul dan cukup untuk pergi haji. Tiba-tiba, tetangganya yang juga hidup miskin, meminta bantuan untuk berobat karena menderita sakit parah. Tak tega melihatnya, ia pun memberikan tabungan naik hajinya untuk berobat.
+        /n /n
+        Di tempat lain, ada seorang saudagar kaya dari kampung seberang yang berangkat haji. Ketika di Padang Arafah, ia bermimpi bertemu dengan Nabi Muhammad SAW.
+        /n /n
+        Saudagar kaya bertanya, “siapakah yang ibadah hajinya diterima oleh Allah SWT?” Beliau menjawab bahwa si tukang semir lah yang menjadi seorang haji mabrur.
+        /n /n
+        Sekembalinya dari tanah suci, ia pun mencari tukang semir sepatu yang dimaksud. Betapa terkejutnya dia saat mengetahui yang dicari adalah seorang tukang semir sepatu yang miskin. Sang saudagar kemudian bertanya apakah benar si tukang sepatu telah naik haji.
+        /n /n
+        Dengan rendah hati si tukang semir sepatu menjawab jika ia belum pernah pergi haji. Mungkin, Nabi Muhammad SAW menyebut namanya sebagai seorang haji yang mabrur karena melihat niat, kerja keras, dan keikhlasannya.
+        /n /n
+        “ Tahukah Anak muda, bahwa Tukang semir itu adalah orang yang mempunyai usaha ini dan itu adalah ayahku. Ingatlah, bahwa berbuat baik itu tidak mengenal pandang bulu, siapaun orang tersebut. Jika kamu ikhlas karna Allah maka kami akan mendapatkan balasan yang setimpal juga “ Setelah itu, Pak Tua itu menghilang dan tidak terlihat lagi.
+    </string>
+
+    <string name="cerita_anakjujur"></string>
+    <string name="cerita_lterakhir"></string>
+
+
+</resources>
